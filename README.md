@@ -1,4 +1,4 @@
-# 5min Tech Projects
+# Yoda Tweet - How to Build a Yoda Tweet Translator Bot with Python
 A Python script that finds the most recent tweet you were mentioned in and translates it to "Yoda Speak" using the Yoda Translator API.
 
 ## Before you start:
